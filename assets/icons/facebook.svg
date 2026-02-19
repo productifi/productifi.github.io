@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Simplified 24x24 Facebook-style icon optimized for inline buttons -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" role="img" aria-label="Facebook" preserveAspectRatio="xMidYMid meet" style="vertical-align:middle;">
+  <circle cx="12" cy="12" r="10" fill="#ffffff" stroke="#e0e0e0"/>
+  <text x="12" y="15" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#1877F2">f</text>
+</svg>
