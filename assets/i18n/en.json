@@ -15,7 +15,8 @@
     "chatSupport": "Chat Support",
     "callSupport": "Call Support",
     "categories": "Categories",
-    "menu": "Menu"
+    "menu": "Menu",
+    "productify": "Productify"
   },
   "login": {
     "title": "Welcome to Productify",
