@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproductify=self.webpackChunkproductify||[]).push([[262],{5262:(d,t,n)=>{n.r(t),n.d(t,{WISHLIST_ROUTES:()=>o});const o=[{path:"",loadComponent:()=>Promise.all([n.e(592),n.e(583)]).then(n.bind(n,4583)).then(s=>s.WishlistComponent)}]}}]);

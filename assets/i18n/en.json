@@ -1,0 +1,70 @@
+{
+  "header": {
+    "selectLocation": "Select Location",
+    "searchPlaceholder": "Search products",
+    "account": "Account",
+    "login": "Login",
+    "signup": "Sign up",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "customerService": "Customer Service",
+    "customerServiceSubtitle": "We're here to help. Choose an option below to get support.",
+    "orders": "Orders",
+    "refundsReturns": "Refunds & Returns",
+    "chatSupport": "Chat Support",
+    "callSupport": "Call Support",
+    "categories": "Categories",
+    "menu": "Menu"
+  },
+  "login": {
+    "title": "Welcome to Productify",
+    "subtitle": "Sign in to your account to continue",
+    "username": "Username or Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "orContinue": "Or continue with",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "errors": {
+      "usernameRequired": "Username or email is required",
+      "passwordRequired": "Password is required"
+    }
+  },
+  "signup": {
+    "title": "Create Account",
+    "subtitle": "Sign up to start shopping",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "deliveryAddress": "Delivery Address",
+    "street": "Street Address",
+    "city": "City",
+    "state": "State",
+    "pincode": "PIN Code",
+    "terms": "I agree to the Terms of Service and Privacy Policy",
+    "createAccount": "Create Account",
+    "orSignUpWith": "Or sign up with",
+    "haveAccount": "Already have an account?",
+    "signIn": "Sign In"
+  },
+  "signup.errors": {
+    "emailInvalid": "Please enter a valid email address",
+    "phoneInvalid": "Please enter a valid phone number",
+    "pincodeInvalid": "Please enter a valid 6-digit PIN code",
+    "termsRequired": "You must accept the terms to continue",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "forgot": {
+    "title": "Forgot Password?",
+    "subtitle": "Enter your email address to reset your password",
+    "email": "Email Address",
+    "reset": "Reset Password",
+    "back": "Back to Login"
+  }
+}
