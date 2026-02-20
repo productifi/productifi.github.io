@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproductify=self.webpackChunkproductify||[]).push([[808],{5808:(s,t,n)=>{n.r(t),n.d(t,{CART_ROUTES:()=>o});const o=[{path:"",loadComponent:()=>Promise.all([n.e(592),n.e(204)]).then(n.bind(n,5204)).then(d=>d.CartComponent)}]}}]);
